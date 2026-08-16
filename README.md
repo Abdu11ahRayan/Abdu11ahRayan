@@ -79,7 +79,4 @@ Currently working with AWS EC2, Docker, NGINX, Bash, and PostgreSQL while buildi
 
 ##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdu11ahRayan&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdu11ahRayan&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdu11ahRayan&theme=github-dark&hide_border=true&bg_color=transparent&title_color=6e7681&color=6e7681&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb)
